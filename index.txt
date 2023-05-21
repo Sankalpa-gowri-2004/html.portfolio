@@ -1,22 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+ <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-</head>
-<body>
- 
+ </head>
+ <body>
     <h1>Gowri's Portfolio</h1>
     <h3>She is a web developer.</h3>
     <hr/>
     <h3>  Have a look at her project and codes</h3>
     <h2>
-    <ol>
+     <ol>
         <li><a href="./public/movie-ranking.html">Movie ranking project</a>
-        <h6>
-        </h6>
         <hr/>
         <img src="./assets/images/movie ranking.png"height="200"alt="movie ranking project preview"/>
         </li>
@@ -26,10 +23,10 @@
         <hr/>
         <img src="./assets/images/my happy birthday.png"height="350"alt="birthday invitation project preview"/>
         </li>
-    </ol>
-    <a href="./public/about.html">About her</a>
-    <br/>
-    <a href="./public/contact.html">To contact her</a>
-</h2>
-</body>
-</html>
+     </ol>
+     <a href="./public/about.html">About her</a>
+     <br/>
+     <a href="./public/contact.html">To contact her</a>
+    </h2>
+   </body>
+  </html>
